@@ -13,4 +13,4 @@ It will ignore all of the Joomla files and allow you to focus on the project tha
 
 Looking for older versions of Joomla?
 ----------------------------------
-Check the [Tags](https://github.com/rcorral/Joomla-.gitignore/tags).
+Check the [Tags](https://github.com/beneberle/Joomla-.gitignore/tags).
