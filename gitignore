@@ -27,8 +27,6 @@
 /administrator/components/com_tags/
 /administrator/components/com_templates/
 /administrator/components/com_users/
-/administrator/components/com_weblinks/
-/administrator/components/index.html
 /administrator/help/
 /administrator/includes/
 /administrator/index.php
@@ -410,6 +408,7 @@
 /layouts/joomla/editors/
 /layouts/joomla/form/
 /layouts/joomla/links/
+/layouts/joomla/modal/
 /layouts/joomla/pagination/
 /layouts/joomla/quickicons/
 /layouts/joomla/searchtools/
@@ -419,9 +418,12 @@
 /layouts/joomla/toolbar/
 /layouts/libraries/cms/
 /layouts/libraries/index.html
+/layouts/plugins/user/profile/
+/libraries/ClassLoader.php
 /libraries/cms/
 /libraries/cms.php
 /libraries/compat/
+/libraries/composer_autoload.php
 /libraries/fof/
 /libraries/framework/Joomla/
 /libraries/framework/Symfony/
@@ -438,6 +440,7 @@
 /libraries/phputf8/
 /libraries/platform.php
 /libraries/simplepie/
+/libraries/vendor/
 /LICENSE.txt
 /logs/
 /media/cms/
@@ -550,6 +553,7 @@
 /plugins/user/profile/
 /README.txt
 /robots.txt
+/robots.txt.dist
 /templates/beez3/
 /templates/index.html
 /templates/protostar/
